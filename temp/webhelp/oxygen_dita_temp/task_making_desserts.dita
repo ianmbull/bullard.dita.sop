@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Ianmbull\Google Drive\Creating User Documentation\SOP.Dita\temp\webhelp\oxygen_dita_temp?><?workdir-uri file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/temp/webhelp/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_irv_yrh_qx" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="title:1;4:12">Making Desserts</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="shortdesc:1;5:16">A quick note before you begin. When filling the freezer bowl, make sure you don't
+        fill it any higher than a half inch from the top. It is best if you prepare the ingredients
+        in a separate bowl then pour the mixture into the ingredient spout. (This bowl can be found
+        inside the kitchen.)</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="taskbody:1;9:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="context:1;10:18">The following steps explain how to make a dessert using the ice cream
+            machine.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="steps:1;12:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:1;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:1;14:22">Find the frezzer bowl in the frezzer in room 380 and take it to room 370. Make
+                    sure you begin immediately as the frezzer bowl will immediately begin
+                    defrosting. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:2;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:2;19:22">Set the frezzer bowl in the base of the ice cream machine and place the arm in
+                    the frezzer bowl. The arm just rests in the bowl. Make sure the circle side is
+                    facing up. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:3;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:3;24:22">Place the lid over the base making sure that it is oriented to the right of the
+                    center.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:4;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:4;28:22">Turn the lid clockwise to lock. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:5;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:5;31:22">The machine can make ice cream, Gelato or Sorbet, but you are only interested
+                    in the ice cream function. Select the ice cream function. A beep sound will be
+                    heard when the machine is ready. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:6;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:6;36:22">Select the start/stop button on the control panel located on the front of the
+                    base and the freezer bowl will start turning.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:7;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:7;40:22">Pour the ingredients that you mixed in a separate bowl through the ingredient
+                    spout. Frozen dessert take about 15 to 40 minutes to complete.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:8;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:8;44:22">When the dessert is done it will beep for 5 seconds every 3 minutes. You should
+                    note that the final consistency of the dessert will depend on room temperature,
+                    bowl temperature, the temperature of the ingredients and other variables. </cmd>
+                           </step>
+        </steps>
+    </taskbody>
+</task>

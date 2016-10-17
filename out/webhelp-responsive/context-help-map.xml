@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic.introduction" path="topic_introduction.html"/>
+   <appContext helpID="topic_lvp_zrh_qx" path="concept_materials_needed.html"/>
+   <appContext helpID="topic_ezs_4xh_qx" path="concept_preparing_machine.html"/>
+   <appContext helpID="task_irv_yrh_qx" path="task_making_desserts.html"/>
+   <appContext helpID="task_o43_kyh_qx" path="task_warnings.html"/>
+   <appContext helpID="task_rv3_gd3_qx" path="task_cleaning.html"/>
+   <appContext helpID="task_s33_gl3_qx" path="task_vanilla.html"/>
+   <appContext helpID="task_ihq_243_qx" path="taks_fresh_strawberry.html"/>
+   <appContext helpID="task_rm2_jr3_qx" path="task_peanut_butter_cup.html"/>
+   <appContext helpID="topic_ojk_3x3_qx" path="topic_troubleshooting.html"/>
+</map>

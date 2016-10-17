@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Ianmbull\Google Drive\Creating User Documentation\SOP.Dita\temp\pdf?><?workdir-uri file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/temp/pdf/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_s33_gl3_qx" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="title:1;4:12">Simple Vanilla Ice Cream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="shortdesc:1;5:16">Everybody loves the classic vanilla flavored ice cream. This is a simple reciepe to
+        follow and can be made in around 2 hours. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="context:1;8:18">The following information shows the materials needed to make this recipe and the
+            steps necessary to create vanilla ice cream using the ice cream machine. <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="p:1;9:89">
+                <ul class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="ul:1;10:21">
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:1;11:25">1 ½ cups whole milk</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:2;12:25">1 cup plus 2 tablespoons granulated sugar</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:3;13:25">Pinch kosher salt </li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:4;14:25">3 cups heavy cream</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:5;15:25">1 ½  tablespoons pure vanilla extract</li>
+                </ul>
+            </p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="steps:1;18:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:1;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:1;20:22">Grab the mixing bowl and add the sugar</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:2;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:2;23:22">Add the milk, sugar, salt, and mix until the sugar is dissolved.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:3;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:3;26:22">Add in the heavy cream and vanilla then continue mixing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:4;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:4;29:22">After you finish mixing all of the ingriedents cover the bowl with plastic wrap
+                    refrigerate the mixture for at least 2 hours.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:5;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:5;33:22">After the mixture has been refrigerated for 2 hours take it out and press the
+                    start/stop button on the machine.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:6;36:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:6;37:22">Pour the mixture through the spout and continue mixing until the mix has
+                    thickened. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:7;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:7;41:22">Transfer the mixture into a airtight container and place in freezer for 2 hours
+                    and remove from the freezer 15 minutes before serving.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

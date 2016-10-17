@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " xtrc="map:1;3:6" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+ <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title " xtrc="title:1;4:9" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap">How to use the Ice Cream Machine</title>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_1" id="unique_1" type="topic" xtrc="topicref:1;5:44" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="topic_introduction.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " resourceid="topic.introduction"><navtitle class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Introduction</linktext></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_2" id="unique_2" type="topic" xtrc="topicref:2;6:50" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="concept_materials_needed.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " resourceid="topic_lvp_zrh_qx"><navtitle class="- topic/navtitle ">Materials Needed</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Materials Needed</linktext></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_3" id="unique_3" type="topic" xtrc="topicref:3;7:51" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="concept_preparing_machine.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " resourceid="topic_ezs_4xh_qx"><navtitle class="- topic/navtitle ">Preparing the Ice Cream Machine</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Preparing the Ice Cream Machine</linktext></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_4" id="unique_4" type="task" xtrc="topicref:4;8:46" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="task_making_desserts.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " resourceid="task_irv_yrh_qx"><navtitle class="- topic/navtitle ">Making Desserts</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Making Desserts</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A quick note before you begin. When filling the freezer bowl, make sure you don't         fill it any higher than a half inch from the top. It is best if you prepare the ingredients         in a separate bowl then pour the mixture into the ingredient spout. (This bowl can be found         inside the kitchen.)</shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_5" id="unique_5" type="task" xtrc="topicref:5;9:39" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="task_warnings.dita" first_topic_id="#unique_5"><topicmeta class="- map/topicmeta " resourceid="task_o43_kyh_qx"><navtitle class="- topic/navtitle ">Warnings Keeping Yourself and others Safe</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Warnings Keeping Yourself and others Safe</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Nobody wants to get hurt especially when they could have prevented it. Here are some         relevant information to prevent self injury and the injury of other people. </shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_6" id="unique_6" type="task" xtrc="topicref:6;10:39" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="task_cleaning.dita" first_topic_id="#unique_6"><topicmeta class="- map/topicmeta " resourceid="task_rv3_gd3_qx"><navtitle class="- topic/navtitle ">How to Clean the Machine</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to Clean the Machine</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">It is important to keep the machine clean for your usage and for your fellow         classmates that might also use the machine.</shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_7" id="unique_7" type="task" xtrc="topicref:7;11:38" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="task_vanilla.dita" first_topic_id="#unique_7"><topicmeta class="- map/topicmeta " resourceid="task_s33_gl3_qx"><navtitle class="- topic/navtitle ">Simple Vanilla Ice Cream</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Simple Vanilla Ice Cream</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Everybody loves the classic vanilla flavored ice cream. This is a simple reciepe to         follow and can be made in around 2 hours. </shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_8" id="unique_8" type="task" xtrc="topicref:8;12:47" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="taks_fresh_strawberry.dita" first_topic_id="#unique_8"><topicmeta class="- map/topicmeta " resourceid="task_ihq_243_qx"><navtitle class="- topic/navtitle ">Fresh Strawberry Ice Cream</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Fresh Strawberry Ice Cream</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Although there's classics like the regular vanilla ice cream, it is always great to         change things up a bit and add a little extra flavor into the mix. The fresh strawberry ice         cream recipe can add that flavor for you. </shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_9" id="unique_9" type="task" xtrc="topicref:9;13:48" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="task_peanut_butter_cup.dita" first_topic_id="#unique_9"><topicmeta class="- map/topicmeta " resourceid="task_rm2_jr3_qx"><navtitle class="- topic/navtitle ">Peanut Butter Cup Ice Cream</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Peanut Butter Cup Ice Cream</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Another intereting flavor is the peanut butter cup ice cream. This is a combination         of peanut butter and ice cream.</shortdesc></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_10" id="unique_10" type="topic" xtrc="topicref:10;14:47" xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/How%20to%20Use%20Ice%20Cream%20Machine.ditamap" ohref="topic_troubleshooting.dita" first_topic_id="#unique_10"><topicmeta class="- map/topicmeta " resourceid="topic_ojk_3x3_qx"><navtitle class="- topic/navtitle ">Troubleshooting</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Troubleshooting</linktext></topicmeta></topicref>
+</opentopic:map><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_introduction.dita" xtrc="topic:1;3:32" xml:lang="en" oid="topic.introduction" id="unique_1">
+  <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_introduction.dita" xtrc="title:1;4:10">Introduction</title>
+  <body class="- topic/body " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_introduction.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_introduction.dita" xtrc="p:1;6:8">Welcome to the English Departments Shanks Hall room 370. An ice cream machine has been placed
+      in this room for the usage of stuents and teachers, so please feel free to use it at
+      anytime.</p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_introduction.dita" xtrc="p:2;9:8">This dcoument will explian, in a series of steps, how to properly use the Cusininart ice
+      cream machine in Shanks 370 to make ice cream as well as explain warnings associated with the
+      product, cleaning instructions, recipes to make using the machine, and a troubleshooting
+      section to cover any issues or problems that you may come across while using the product in
+      this room. </p>
+  </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="topic:1;3:30" xml:lang="en" oid="topic_lvp_zrh_qx" id="unique_2">
+  <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="title:1;4:10">Materials Needed</title>
+  <body class="- topic/body " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="p:1;6:8">Before you get started there are a couple of materials that are necessary to begin making ice
+      cream with the machine. Detailed in this section are the necessary materials needed for the
+      recipes included with the machine. All the food materials can be gathered from the kitchen in
+      room 380. The following list includes all the materials that you will need for all of the
+      recipes included in this procedure:</p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="p:2;11:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="b:1;11:11">Materials</b></p>
+    <ul id="unique_2_Connect_42_ul_fn1_bth_qx" class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="ul:1;12:28">
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:1;13:11">Cuisinart ice cream machine</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:2;14:11">Measuring cup</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:3;15:11">Whisk</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:4;16:11">Bowl</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:5;17:11">Food processor fitted with chopping blade</li>
+    </ul>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="p:3;19:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="b:2;19:11">Materials for simple vanilla ice cream</b><ul id="unique_2_Connect_42_ul_nld_jz3_qx" class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="ul:2;19:76">
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:6;20:13">1 ½ cups whole milk</li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:7;21:13">1 cup plus 2 tablespoons granulated sugar</li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:8;22:13">Pinch kosher salt </li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:9;23:13">3 cups heavy cream</li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:10;24:13">1 ½  tablespoons pure vanilla extract</li>
+      </ul></p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="p:4;26:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="b:3;26:11">Materials for fresh strawberry ice cream</b><ul id="unique_2_Connect_42_ul_ugj_yth_qx" class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="ul:3;26:78">
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:11;27:13">1 ½ cups fresh strawberries</li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:12;28:13">¾ cup whole milk</li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:13;29:13">2/3 cup granulated sugar </li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:14;30:13">Pinch kosher salt</li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:15;31:13">1 ½ cups heavy cream</li>
+        <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:16;32:13">1 ½  teaspoons pure vanilla extract</li>
+      </ul></p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="p:5;34:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="b:4;34:11">Materials for peanut butter cup ice cream</b></p>
+    <ul id="unique_2_Connect_42_ul_ukn_rth_qx" class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="ul:4;35:28">
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:17;36:11">1 cup of good quality peanut butter</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:18;37:11">2/3 cup of granulated sugar</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:19;38:11">1 cup of whole milk</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:20;39:11">2 cups of heavy cream</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:21;40:11">1 teaspoon pure vanilla extract</li>
+      <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_materials_needed.dita" xtrc="li:22;41:11">1 cup chopped chocolate peanut butter cup candies</li>
+    </ul>
+  </body>
+</topic><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_preparing_machine.dita" xtrc="topic:1;3:30" xml:lang="en" oid="topic_ezs_4xh_qx" id="unique_3">
+  <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_preparing_machine.dita" xtrc="title:1;4:10">Preparing the Ice Cream Machine</title>
+  <body class="- topic/body " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_preparing_machine.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/concept_preparing_machine.dita" xtrc="p:1;6:8">Make sure the freezer bowl is frozen before beginning your recipe. The freezer bowl will
+      always be in the freezer located in room 380. To determine whether or not the freezer bowl is
+      frozen shake it. If you can hear the liquid inside moving around, then the bowl isn't
+      completely frozen. Make sure after you finish using the freezer bowl that you wah  and dry the
+      bowl and place it back in the freezer in room 380.</p>
+  </body>
+</topic><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_irv_yrh_qx" id="unique_4">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="title:1;4:12">Making Desserts</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="shortdesc:1;5:16">A quick note before you begin. When filling the freezer bowl, make sure you don't
+        fill it any higher than a half inch from the top. It is best if you prepare the ingredients
+        in a separate bowl then pour the mixture into the ingredient spout. (This bowl can be found
+        inside the kitchen.)</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="taskbody:1;9:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="context:1;10:18">The following steps explain how to make a dessert using the ice cream
+            machine.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="steps:1;12:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:1;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:1;14:22">Find the frezzer bowl in the frezzer in room 380 and take it to room 370. Make
+                    sure you begin immediately as the frezzer bowl will immediately begin
+                    defrosting. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:2;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:2;19:22">Set the frezzer bowl in the base of the ice cream machine and place the arm in
+                    the frezzer bowl. The arm just rests in the bowl. Make sure the circle side is
+                    facing up. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:3;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:3;24:22">Place the lid over the base making sure that it is oriented to the right of the
+                    center.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:4;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:4;28:22">Turn the lid clockwise to lock. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:5;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:5;31:22">The machine can make ice cream, Gelato or Sorbet, but you are only interested
+                    in the ice cream function. Select the ice cream function. A beep sound will be
+                    heard when the machine is ready. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:6;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:6;36:22">Select the start/stop button on the control panel located on the front of the
+                    base and the freezer bowl will start turning.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:7;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:7;40:22">Pour the ingredients that you mixed in a separate bowl through the ingredient
+                    spout. Frozen dessert take about 15 to 40 minutes to complete.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="step:8;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_making_desserts.dita" xtrc="cmd:8;44:22">When the dessert is done it will beep for 5 seconds every 3 minutes. You should
+                    note that the final consistency of the dessert will depend on room temperature,
+                    bowl temperature, the temperature of the ingredients and other variables. </cmd>
+                           </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_o43_kyh_qx" id="unique_5">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="title:1;4:12">Warnings Keeping Yourself and others Safe</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="shortdesc:1;5:16">Nobody wants to get hurt especially when they could have prevented it. Here are some
+        relevant information to prevent self injury and the injury of other people. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="context:1;8:18">Steps to take to insure that you and the machine stay safe.<ul id="unique_5_Connect_42_ul_ctn_3zh_qx" class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="ul:1;8:100">
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="li:1;9:21">Don't place cord or base of the ice cream machine near water or any other liquid
+                    to prevent risk of shock. </li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="li:2;11:21">Unplug the machine when it is no longer in use.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="li:3;12:21">For the longevity of the machine do not allow the freezer bowl sit around
+                    extremely hot objects.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="li:4;14:21">Make sure your hands are dry when using the machine.</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_warnings.dita" xtrc="li:5;15:21">The machine has a safety feature that automatically turns off the motor if it
+                    overheats.</li>
+            </ul></context>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_rv3_gd3_qx" id="unique_6">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="title:1;4:12">How to Clean the Machine</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="shortdesc:1;5:16">It is important to keep the machine clean for your usage and for your fellow
+        classmates that might also use the machine.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="context:1;8:18">The following are steps you should take to clean and maintain the ice cream
+            machine.<p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="p:1;9:25"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:1;12:22">Take out the lid, the mixing arm, and the freezer bowl.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:2;15:22">Take them to the sink in room 380.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:3;18:22">Clean the 3 components with warm soapy water. Make sure to be extra careful
+                    with the freezer bowl and don't clean with abrasive cleansers.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:4;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:4;22:22">Clean parts throughly.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:5;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:5;25:22">Dry all of the parts throughly and place the freezer bowl back in the freezer.
+                    Take the lid and mixing arm back to the ice cream base in room 370.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:6;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:6;29:22">Clean the motor base clean with a damp cloth.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:7;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:7;32:22">Put the machine back together. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_s33_gl3_qx" id="unique_7">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="title:1;4:12">Simple Vanilla Ice Cream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="shortdesc:1;5:16">Everybody loves the classic vanilla flavored ice cream. This is a simple reciepe to
+        follow and can be made in around 2 hours. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="context:1;8:18">The following information shows the materials needed to make this recipe and the
+            steps necessary to create vanilla ice cream using the ice cream machine. <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="p:1;9:89">
+                <ul class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="ul:1;10:21">
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:1;11:25">1 ½ cups whole milk</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:2;12:25">1 cup plus 2 tablespoons granulated sugar</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:3;13:25">Pinch kosher salt </li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:4;14:25">3 cups heavy cream</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="li:5;15:25">1 ½  tablespoons pure vanilla extract</li>
+                </ul>
+            </p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="steps:1;18:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:1;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:1;20:22">Grab the mixing bowl and add the sugar</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:2;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:2;23:22">Add the milk, sugar, salt, and mix until the sugar is dissolved.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:3;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:3;26:22">Add in the heavy cream and vanilla then continue mixing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:4;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:4;29:22">After you finish mixing all of the ingriedents cover the bowl with plastic wrap
+                    refrigerate the mixture for at least 2 hours.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:5;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:5;33:22">After the mixture has been refrigerated for 2 hours take it out and press the
+                    start/stop button on the machine.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:6;36:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:6;37:22">Pour the mixture through the spout and continue mixing until the mix has
+                    thickened. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="step:7;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_vanilla.dita" xtrc="cmd:7;41:22">Transfer the mixture into a airtight container and place in freezer for 2 hours
+                    and remove from the freezer 15 minutes before serving.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_ihq_243_qx" id="unique_8">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="title:1;4:12">Fresh Strawberry Ice Cream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="shortdesc:1;5:16">Although there's classics like the regular vanilla ice cream, it is always great to
+        change things up a bit and add a little extra flavor into the mix. The fresh strawberry ice
+        cream recipe can add that flavor for you. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="taskbody:1;8:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="context:1;9:18">The following information shows the materials needed to make the recipe and the
+            steps necessary to create fresh strawberry ice cream using the ice cream machine. <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="p:1;10:98">
+                <ul class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="ul:1;11:21">
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="li:1;12:25">1 ½ cups fresh strawberries</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="li:2;13:25">¾ cup whole milk</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="li:3;14:25">2/3 cup granulated sugar </li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="li:4;15:25">Pinch kosher salt</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="li:5;16:25">1 ½ cups heavy cream</li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="li:6;17:25">1 ½ teaspoons pure vanilla extract</li>
+                </ul>
+            </p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="steps:1;20:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:1;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:1;22:22">Using a food processor fitted with a chopping blade, chop the strawberries
+                    until rough or finely chopped. The preference is yours.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:2;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:2;26:22">Grab the mixing bowl and add the sugar.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:3;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:3;29:22">Add the milk, sugar, salt, and whisk until the sugar is dissolved.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:4;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:4;32:22">Add in the heavy cream and vanilla then continue mixing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:5;34:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:5;35:22">Add in the strawberries with the juies included.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:6;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:6;38:22">After you finish mixing all of the ingridients, cover the bowl with plastic
+                    wrap, and refrigerate the mixture for at least 2 hours. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:7;41:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:7;42:22">After the mixture has been refrigerated for 2 hours take it out and mix it
+                    again. Press the start/stop button on the machine.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:8;45:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:8;46:22">Pour the mixture through the spout and continue mixing until the mix has
+                    thickened. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="step:9;49:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/taks_fresh_strawberry.dita" xtrc="cmd:9;50:22">Transfer mixture into airtight container and place in freezer for 2 hours and
+                    remove from the freezer 15 minutes before serving.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="task:1;3:28" xml:lang="en" oid="task_rm2_jr3_qx" id="unique_9">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="title:1;4:12">Peanut Butter Cup Ice Cream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="shortdesc:1;5:16">Another intereting flavor is the peanut butter cup ice cream. This is a combination
+        of peanut butter and ice cream.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="context:1;8:18">The following information shows the materials needed to make this recipe and the
+            steps necessary to create peanut butter cup ice cream using the ice cream
+                machine.<p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="p:1;10:28">Materials for peanut butter cup ice cream</p><ul id="unique_9_Connect_42_ul_ukn_rth_qx" class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="ul:1;10:96">
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:1;11:21">1 cup of good quality peanut butter</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:2;12:21">2/3 cup of granulated sugar</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:3;13:21">1 cup of whole milk</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:4;14:21">2 cups of heavy cream</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:5;15:21">1 teaspoon pure vanilla extract</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:6;16:21">1 cup chopped chocolate peanut butter cup candies</li>
+            </ul></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="steps:1;18:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:1;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:1;20:22">Grab the mixing bowl and mix peanut butter and sugar until its smooth. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:2;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:2;23:22">Then add milk and contineu mixing until all of the sugar has been dissovled.
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:3;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:3;27:22">Add in the heavy cream and vanill then continue mixing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:4;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:4;30:22">After you finish mixing all of the ingridients, cover the bowl with plastic
+                    wrap and refrigerate the mixture for at least 2 hours.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:5;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:5;34:22">After the mixture has been refrigerated for 2 hours take it out. Press the
+                    start/stop button on the machine.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:6;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:6;38:22">Pour the mixture through the spout and continue mixing until the mix has
+                    thickened.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:7;41:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:7;42:22">Gradually add chopped candy into the churning ice cream.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:8;44:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:8;45:22">The ice cream is done when you get the desired consitency.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:9;47:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:9;48:22">Transfer the mixture into an airtight container and place in freezer for 2
+                    hours and remove from the freezer 15 mintues before serving. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="topic:1;3:30" xml:lang="en" oid="topic_ojk_3x3_qx" id="unique_10">
+  <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="title:1;4:10">Troubleshooting</title>
+  <body class="- topic/body " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="body:1;5:9">
+    
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:1;7:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:1;7:11">Problem:</b> The Ice cream machine won't turn on.</p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:2;8:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:2;8:11">Solution:</b> Make sure that the machine is plugged into the wall.</p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:3;9:9"/>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:4;10:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:3;10:11">Proablem:</b> The wrong function was chosen when fixing ice cream.</p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:5;11:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:4;11:11">Solution: </b>The Unit can be reset by pressing the Start/stop button twice. </p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:6;12:9"/>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:7;13:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:5;13:11">Problem:</b> The unit suddenly stop working.</p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:8;14:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:6;14:11">Solution:</b> In the case that the unit just suddenly stops working it could be because
+      your ice cream is done fixing or the unit has overheated and triggered is satfety measures to
+      protect the motor. The motor will automatically be shutdown when the motor overheats or the
+      load is too great. </p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:9;18:9"/>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:10;19:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:7;19:11">Problem:</b> The finished recipe isn't thick enough.</p>
+    <p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="p:11;20:8"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/topic_troubleshooting.dita" xtrc="b:8;20:11">Solution:</b> It could be possible that the freezer bowl wasn't cold enough or that too
+      much of your ingridients were used for your recipe. </p>
+  </body>
+</topic></map>

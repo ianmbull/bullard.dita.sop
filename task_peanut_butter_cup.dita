@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rm2_jr3_qx">
+    <title>Peanut Butter Cup Ice Cream</title>
+    <shortdesc>Another intereting flavor is the peanut butter cup ice cream. This is a combination
+        of peanut butter and ice cream.</shortdesc>
+    <taskbody>
+        <context>The following information shows the materials needed to make this recipe and the
+            steps necessary to create peanut butter cup ice cream using the ice cream
+                machine.<p>Materials for peanut butter cup ice cream</p><ul id="ul_ukn_rth_qx">
+                <li>1 cup of good quality peanut butter</li>
+                <li>2/3 cup of granulated sugar</li>
+                <li>1 cup of whole milk</li>
+                <li>2 cups of heavy cream</li>
+                <li>1 teaspoon pure vanilla extract</li>
+                <li>1 cup chopped chocolate peanut butter cup candies</li>
+            </ul></context>
+        <steps>
+            <step>
+                <cmd>Grab the mixing bowl and mix peanut butter and sugar until its smooth. </cmd>
+            </step>
+            <step>
+                <cmd>Then add milk and contineu mixing until all of the sugar has been dissovled.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Add in the heavy cream and vanill then continue mixing.</cmd>
+            </step>
+            <step>
+                <cmd>After you finish mixing all of the ingridients, cover the bowl with plastic
+                    wrap and refrigerate the mixture for at least 2 hours.</cmd>
+            </step>
+            <step>
+                <cmd>After the mixture has been refrigerated for 2 hours take it out. Press the
+                    start/stop button on the machine.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture through the spout and continue mixing until the mix has
+                    thickened.</cmd>
+            </step>
+            <step>
+                <cmd>Gradually add chopped candy into the churning ice cream.</cmd>
+            </step>
+            <step>
+                <cmd>The ice cream is done when you get the desired consitency.</cmd>
+            </step>
+            <step>
+                <cmd>Transfer the mixture into an airtight container and place in freezer for 2
+                    hours and remove from the freezer 15 mintues before serving. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

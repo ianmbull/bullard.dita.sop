@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_s33_gl3_qx">
+    <title>Simple Vanilla Ice Cream</title>
+    <shortdesc>Everybody loves the classic vanilla flavored ice cream. This is a simple reciepe to
+        follow and can be made in around 2 hours. </shortdesc>
+    <taskbody>
+        <context>The following information shows the materials needed to make this recipe and the
+            steps necessary to create vanilla ice cream using the ice cream machine. <p>
+                <ul>
+                    <li>1 ½ cups whole milk</li>
+                    <li>1 cup plus 2 tablespoons granulated sugar</li>
+                    <li>Pinch kosher salt </li>
+                    <li>3 cups heavy cream</li>
+                    <li>1 ½  tablespoons pure vanilla extract</li>
+                </ul>
+            </p></context>
+        <steps>
+            <step>
+                <cmd>Grab the mixing bowl and add the sugar</cmd>
+            </step>
+            <step>
+                <cmd>Add the milk, sugar, salt, and mix until the sugar is dissolved.</cmd>
+            </step>
+            <step>
+                <cmd>Add in the heavy cream and vanilla then continue mixing.</cmd>
+            </step>
+            <step>
+                <cmd>After you finish mixing all of the ingriedents cover the bowl with plastic wrap
+                    refrigerate the mixture for at least 2 hours.</cmd>
+            </step>
+            <step>
+                <cmd>After the mixture has been refrigerated for 2 hours take it out and press the
+                    start/stop button on the machine.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture through the spout and continue mixing until the mix has
+                    thickened. </cmd>
+            </step>
+            <step>
+                <cmd>Transfer the mixture into a airtight container and place in freezer for 2 hours
+                    and remove from the freezer 15 minutes before serving.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

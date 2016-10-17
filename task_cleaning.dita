@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rv3_gd3_qx">
+    <title>How to Clean the Machine</title>
+    <shortdesc>It is important to keep the machine clean for your usage and for your fellow
+        classmates that might also use the machine.</shortdesc>
+    <taskbody>
+        <context>The following are steps you should take to clean and maintain the ice cream
+            machine.<p/></context>
+        <steps>
+            <step>
+                <cmd>Take out the lid, the mixing arm, and the freezer bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Take them to the sink in room 380.</cmd>
+            </step>
+            <step>
+                <cmd>Clean the 3 components with warm soapy water. Make sure to be extra careful
+                    with the freezer bowl and don't clean with abrasive cleansers.</cmd>
+            </step>
+            <step>
+                <cmd>Clean parts throughly.</cmd>
+            </step>
+            <step>
+                <cmd>Dry all of the parts throughly and place the freezer bowl back in the freezer.
+                    Take the lid and mixing arm back to the ice cream base in room 370.</cmd>
+            </step>
+            <step>
+                <cmd>Clean the motor base clean with a damp cloth.</cmd>
+            </step>
+            <step>
+                <cmd>Put the machine back together. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

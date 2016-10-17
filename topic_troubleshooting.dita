@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ojk_3x3_qx">
+  <title>Troubleshooting</title>
+  <body>
+    
+    <p><b>Problem:</b> The Ice cream machine won't turn on.</p>
+    <p><b>Solution:</b> Make sure that the machine is plugged into the wall.</p>
+    <p/>
+    <p><b>Proablem:</b> The wrong function was chosen when fixing ice cream.</p>
+    <p><b>Solution: </b>The Unit can be reset by pressing the Start/stop button twice. </p>
+    <p/>
+    <p><b>Problem:</b> The unit suddenly stop working.</p>
+    <p><b>Solution:</b> In the case that the unit just suddenly stops working it could be because
+      your ice cream is done fixing or the unit has overheated and triggered is satfety measures to
+      protect the motor. The motor will automatically be shutdown when the motor overheats or the
+      load is too great. </p>
+    <p/>
+    <p><b>Problem:</b> The finished recipe isn't thick enough.</p>
+    <p><b>Solution:</b> It could be possible that the freezer bowl wasn't cold enough or that too
+      much of your ingridients were used for your recipe. </p>
+  </body>
+</topic>

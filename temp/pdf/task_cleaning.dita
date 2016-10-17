@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Ianmbull\Google Drive\Creating User Documentation\SOP.Dita\temp\pdf?><?workdir-uri file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/temp/pdf/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_rv3_gd3_qx" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="title:1;4:12">How to Clean the Machine</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="shortdesc:1;5:16">It is important to keep the machine clean for your usage and for your fellow
+        classmates that might also use the machine.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="context:1;8:18">The following are steps you should take to clean and maintain the ice cream
+            machine.<p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="p:1;9:25"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:1;12:22">Take out the lid, the mixing arm, and the freezer bowl.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:2;15:22">Take them to the sink in room 380.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:3;18:22">Clean the 3 components with warm soapy water. Make sure to be extra careful
+                    with the freezer bowl and don't clean with abrasive cleansers.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:4;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:4;22:22">Clean parts throughly.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:5;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:5;25:22">Dry all of the parts throughly and place the freezer bowl back in the freezer.
+                    Take the lid and mixing arm back to the ice cream base in room 370.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:6;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:6;29:22">Clean the motor base clean with a damp cloth.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="step:7;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_cleaning.dita" xtrc="cmd:7;32:22">Put the machine back together. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

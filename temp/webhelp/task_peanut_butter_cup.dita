@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Ianmbull\Google Drive\Creating User Documentation\SOP.Dita\temp\webhelp?><?workdir-uri file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/temp/webhelp/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_rm2_jr3_qx" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="title:1;4:12">Peanut Butter Cup Ice Cream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="shortdesc:1;5:16">Another intereting flavor is the peanut butter cup ice cream. This is a combination
+        of peanut butter and ice cream.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="context:1;8:18">The following information shows the materials needed to make this recipe and the
+            steps necessary to create peanut butter cup ice cream using the ice cream
+                machine.<p class="- topic/p " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="p:1;10:28">Materials for peanut butter cup ice cream</p><ul id="ul_ukn_rth_qx" class="- topic/ul " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="ul:1;10:96">
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:1;11:21">1 cup of good quality peanut butter</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:2;12:21">2/3 cup of granulated sugar</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:3;13:21">1 cup of whole milk</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:4;14:21">2 cups of heavy cream</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:5;15:21">1 teaspoon pure vanilla extract</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="li:6;16:21">1 cup chopped chocolate peanut butter cup candies</li>
+            </ul></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="steps:1;18:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:1;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:1;20:22">Grab the mixing bowl and mix peanut butter and sugar until its smooth. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:2;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:2;23:22">Then add milk and contineu mixing until all of the sugar has been dissovled.
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:3;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:3;27:22">Add in the heavy cream and vanill then continue mixing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:4;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:4;30:22">After you finish mixing all of the ingridients, cover the bowl with plastic
+                    wrap and refrigerate the mixture for at least 2 hours.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:5;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:5;34:22">After the mixture has been refrigerated for 2 hours take it out. Press the
+                    start/stop button on the machine.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:6;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:6;38:22">Pour the mixture through the spout and continue mixing until the mix has
+                    thickened.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:7;41:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:7;42:22">Gradually add chopped candy into the churning ice cream.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:8;44:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:8;45:22">The ice cream is done when you get the desired consitency.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="step:9;47:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Ianmbull/Google%20Drive/Creating%20User%20Documentation/SOP.Dita/task_peanut_butter_cup.dita" xtrc="cmd:9;48:22">Transfer the mixture into an airtight container and place in freezer for 2
+                    hours and remove from the freezer 15 mintues before serving. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

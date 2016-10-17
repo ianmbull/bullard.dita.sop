@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>How to use the Ice Cream Machine</title>
+ <topicref href="topic_introduction.dita"/>
+ <topicref href="concept_materials_needed.dita"/>
+ <topicref href="concept_preparing_machine.dita"/>
+ <topicref href="task_making_desserts.dita"/>
+ <topicref href="task_warnings.dita"/>
+ <topicref href="task_cleaning.dita"/>
+ <topicref href="task_vanilla.dita"/>
+ <topicref href="taks_fresh_strawberry.dita"/>
+ <topicref href="task_peanut_butter_cup.dita"/>
+ <topicref href="topic_troubleshooting.dita"/>
+</map>
